@@ -1,0 +1,23 @@
+[
+    {
+        "gameId": 1111,
+        "name": "grup1",
+        "groupType": 2,
+        "sellerId": "ugur",
+        "tables": []
+    },
+    {
+        "gameId": 2222,
+        "name": "grup2",
+        "groupType": 1,
+        "sellerId": "ugur",
+        "tables": []
+    },
+    {
+        "gameId": 2222,
+        "name": "grup2222",
+        "groupType": 3,
+        "sellerId": "ugur",
+        "tables": []
+    }
+]

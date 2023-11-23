@@ -1,0 +1,68 @@
+[
+  {
+    "id": "nikos",
+    "superadmin_id": null,
+    "admin_id": "adminnikos",
+    "seller_id": null,
+    "created_at": "2023-10-29T01:14:15Z",
+    "email": "nikos@email.com",
+    "phone": "nikosphone",
+    "h": "randomString",
+    "password": "nikos",
+    "affiliated_by": "",
+    "multi_login_allowed": true,
+    "is_disabled": false,
+    "user_type": "RegularUser",
+    "is_seamless": true,
+    "last_login_ips": [
+      "192.0.2.0",
+      "203.0.113.0"
+    ],
+    "credit": 1000,
+    "bonus_credit": 200
+  },
+  {
+    "id": "ugur",
+    "superadmin_id": null,
+    "admin_id": "adminugur",
+    "seller_id": null,
+    "created_at": "2023-10-29T01:14:15Z",
+    "email": "ugur@email.com",
+    "phone": "uguephone",
+    "h": "randomString",
+    "password": "ugur",
+    "affiliated_by": "",
+    "multi_login_allowed": true,
+    "is_disabled": false,
+    "user_type": "RegularUser",
+    "is_seamless": true,
+    "last_login_ips": [
+      "192.0.2.0",
+      "203.0.113.0"
+    ],
+    "credit": 1000,
+    "bonus_credit": 200
+  },
+  {
+    "id": "test",
+    "superadmin_id": "ugur",
+    "admin_id": null,
+    "seller_id": null,
+    "created_at": "2023-10-29T01:14:15Z",
+    "email": "ugur@email.com",
+    "phone": "uguephone",
+    "h": "randomString",
+    "password": "ugur",
+    "affiliated_by": "",
+    "multi_login_allowed": true,
+    "is_disabled": false,
+    "user_type": "RegularUser",
+    "is_seamless": true,
+    "last_login_ips": [
+      "192.0.2.0",
+      "203.0.113.0"
+    ],
+    "credit": 1000,
+    "bonus_credit": 200
+  }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 127998,
+        "group": 1,
+        "name": "aaa",
+        "price": 321,
+        "c1": 32,
+        "c2": 5,
+        "t": 8,
+        "first": 1,
+        "last": 99
+    },
+    {
+        "id": 65651421,
+        "group": 2,
+        "name": "ddsdss",
+        "price": 321,
+        "c1": 32,
+        "c2": 5,
+        "t": 8,
+        "first": 1,
+        "last": 99
+    },
+    {
+        "id": 865432,
+        "group": 3,
+        "name": "vcxvcxvxc",
+        "price": 321,
+        "c1": 32,
+        "c2": 5,
+        "t": 8,
+        "first": 1,
+        "last": 99
+    }
+]
